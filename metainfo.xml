@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<presentation guid="A9FA672F-EBCE-4454-91CC-B5945F1B8BF6" version="0" availableOffline="1">
+	<info>
+		<title>تدريبات الدرس الاول التيرم الثانى</title>
+		<description/>
+	</info>
+	<files index="id20" thumbnail="id49" totalSize="6627564">
+		<file id="id0">data/thmb1.png</file>
+		<file id="id1">data/slide1.js</file>
+		<file id="id2">data/slide1.css</file>
+		<file id="id3">data/thmb2.png</file>
+		<file id="id4">data/quiz1.js</file>
+		<file id="id5">data/quiz1/audios/snd-2a0204cadf70c6aad19769efc74331f6fe09ded7.mp3</file>
+		<file id="id6">data/quiz1/audios/snd-be1527de6283d6a837eb5ede34d9c247a2303533.mp3</file>
+		<file id="id7">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id8">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id9">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id10">data/quiz1/fonts/fnt3.woff</file>
+		<file id="id11">data/quiz1/fonts/fnt4.woff</file>
+		<file id="id12">data/quiz1/fonts/fnt5.woff</file>
+		<file id="id13">data/quiz1/images/img-2e48c6b2d79c0e0fb283badc6e4547b09eddda45.jpg</file>
+		<file id="id14">data/quiz1/images/img-506c7d6ee4dc993a770a321ed24390cb461f72bc.png</file>
+		<file id="id15">data/quiz1/images/img-98098574f9471a36f9ae3032152a6709cd4405ae.png</file>
+		<file id="id16">data/quiz1/images/img-bef43ceee97cf05037359cc6eca0eea4b52f12de.jpg</file>
+		<file id="id17">data/quiz1/images/img-fc1f531b1d40a2710f2b2b8df01c8d45102e0164.png</file>
+		<file id="id18">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id19">data/quizplayer.js</file>
+		<file id="id20">index.html</file>
+		<file id="id21">data/player.js</file>
+		<file id="id26">data/browsersupport.js</file>
+		<file id="id27">data/apple-touch-icon.png</file>
+		<file id="id28">data/favicon.ico</file>
+		<file id="id29">data/fnt0.woff</file>
+		<file id="id30">data/fnt1.woff</file>
+		<file id="id31">data/fnt10.woff</file>
+		<file id="id32">data/fnt2.woff</file>
+		<file id="id33">data/fnt3.woff</file>
+		<file id="id34">data/fnt4.woff</file>
+		<file id="id35">data/fnt5.woff</file>
+		<file id="id36">data/fnt6.woff</file>
+		<file id="id37">data/fnt7.woff</file>
+		<file id="id38">data/fnt8.woff</file>
+		<file id="id39">data/fnt9.woff</file>
+		<file id="id40">data/html5-unsupported.html</file>
+		<file id="id41">data/html5.png</file>
+		<file id="id42">data/img0.png</file>
+		<file id="id43">data/img1.png</file>
+		<file id="id44">data/img2.png</file>
+		<file id="id45">data/img3.png</file>
+		<file id="id46">data/img4.png</file>
+		<file id="id47">data/img5.png</file>
+		<file id="id48">data/photo1.png</file>
+		<file id="id49">data/ismplayer/preview.png</file>
+		<file id="id50">data/ismplayer/play.svg</file>
+		<file id="id51">data/ismplayer/style.css</file>
+		<file id="id52">data/ismplayer/style_mini.css</file>
+		<file id="id53">ismplayer.html</file>
+		<file id="id54">data/ismplayer/app_store2x.png</file>
+		<file id="id55">metainfo.xml</file>
+	</files>
+</presentation>
